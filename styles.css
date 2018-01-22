@@ -1,0 +1,35 @@
+body {
+    margin-top: 3em;
+    margin-bottom: 3em;
+
+}
+
+h1 {
+    text-align: center;
+    user-select: none;
+}
+
+#btn-container {
+    padding-top: 1em;
+    width: 95%;
+    background-color: rgb(190, 190, 190);
+    padding-bottom: 1.5em;
+    border: 1px solid black;
+    margin-bottom: 2em;
+}
+
+#shape-container {
+    position: relative;
+    width: 600px;
+    height: 600px;
+    background-color: white;
+    border: 1px solid black;
+}
+
+#data-container {
+    position: relative;
+    width: 300px;
+    height: 600px;
+    background-color: white;
+    border: 1px solid black;
+}
